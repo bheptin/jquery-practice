@@ -1,9 +1,7 @@
    $("#files").click(function() {
-       $("#fchild").slideToggle( "slow", function() {
-       });
+       $("#fchild").slideToggle( "slow" );
      })
 
     $("#cloud").click(function() {
-        $("#cchild").slideToggle( "slow", function() {
-        });
+        $("#cchild").slideToggle( "slow" );
       })
