@@ -1,0 +1,30 @@
+div {
+  display: block;
+  width: 250px;
+  margin-left: 350px;
+  border: solid;
+  border-color: black;
+  font-size: 30px;
+  background-color: #56706C; }
+
+ul {
+  text-align: center;
+  display: none;
+  list-style: none; }
+
+button {
+  float: right;
+  color: white;
+  margin-left: 30px;
+  background-color: #43571A;
+  border-radius: 10px; }
+
+#fchild li {
+  background-color: #DBE0CE;
+  border: solid;
+  border-color: #808075; }
+
+#cchild li {
+  background-color: #DBE0CE;
+  border: solid;
+  border-color: #808075; }
